@@ -1,3 +1,10 @@
-<h1>SEM 7</h1>
+# SEM 7
 
-All Subject <h3>Assignments<h3>
+All Subject **Assignments** and **Notes**\
+
+
+## Sessional 1 
+
+1. Notes 
+2. Paper
+
