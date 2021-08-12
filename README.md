@@ -1,6 +1,6 @@
 # SEM 7
 
-All Subject **Assignments** and **Notes** \
+All Subject **Assignments** and **Notes** 
 
 
 ## Sessional 1 
